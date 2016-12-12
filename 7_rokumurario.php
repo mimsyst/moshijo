@@ -1,5 +1,3 @@
-˜Z‘ºƒŠƒI‚Ì‹Ù‹}Ž–‘Ô
-
 <?php
     $in = trim(fgets(STDIN));
     $s = explode(" ", $in);
